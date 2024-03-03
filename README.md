@@ -2,7 +2,7 @@
 - 💞️ I’m looking to collaborate on data related projects.
 - 📫 You can reach me via email at theaminadam@gmail.com or through direct messages on LinkedIn: [Amin Adam's LinkedIn profile](https://www.linkedin.com/in/amin-adam-3b66ba195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgPIZl6vwSiuOXwJAyNwLsQ%3D%3D) or on X (formerly Twitter) @meeanadam.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love problem-solving and spending quality time with my family in my spare time.
+- ⚡ Fun fact: I love problem-solving and spending quality time with my family.
 
 <!---
 theAminAdam/theAminAdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
