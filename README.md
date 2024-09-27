@@ -1,4 +1,5 @@
-# 👋 Hi, Welcome to my GitHub profile! I'm Amin, a Senior Analyst (Costing) at Christie NHS Foundation Trust with a background in civil engineering and a passion for data analysis.
+# 👋 Hi, Welcome to my GitHub profile! 
+## I'm Amin, a Senior Analyst (Costing) at Christie NHS Foundation Trust with a background in civil engineering and a passion for data analysis.
 
 ## About Me
 - 🔎 I specialize in extracting insights from data to support informed, data-driven decisions.
